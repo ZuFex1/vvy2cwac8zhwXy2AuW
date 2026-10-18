@@ -1,7 +1,7 @@
 @echo off
 chcp 65001 >nul
 setlocal EnableExtensions
-title 永久开启移动热点 - AutoHotspot
+title 永久开启移动热点@MaoGE - AutoHotspot
 
 rem =====================================================================
 rem  改热点名字 / 密码，只改下面两行。
